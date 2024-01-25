@@ -1,0 +1,12 @@
+.nav-bar
+{
+    display: flex;
+    background-color: pink;
+    padding: 20px;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+.nav-link
+{
+    text-decoration:none;
+}
